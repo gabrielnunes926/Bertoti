@@ -57,4 +57,85 @@ Slide 57
 
 
 
+CÓDIGO BERTOTI:
+import java.util.LinkedList;
+import java.util.List;
+
+public class Condominio {
+
+    private List<Apartamento> apartamento = new LinkedList<>();
+
+    public Condominio() {
+    }
+
+    public void addApartamento(Apartamento apartamento) {
+        this.apartamento.add(apartamento);
+    }
+    
+    public Apartamento acharNumero(int numero) {
+    for (Apartamento apartamento : this.apartamento) {
+      if (apartamento.getNumero() == numero) {
+           return apartamento;
+       }
+    }
+        return null;
+        
+    }
+    
+   public List<Apartamento> acharTorre(String torre) {
+    List<Apartamento> encontrados = new LinkedList<>();
+    
+    for (Apartamento apartamento : this.apartamento) {
+        if (apartamento.getTorre().equals(torre)) {
+            encontrados.add(apartamento);
+        }
+    }
+    return encontrados;
+}
+
+public List<Apartamento> getApartamento() {
+    return this.apartamento;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+public class Apartamento {
+    
+    private int numero;
+    private String torre;
+
+    public void setNumero(int numero) {
+        this.numero = numero;
+    }
+
+    public void setTorre(String torre) {
+        this.torre = torre;
+    }
+
+    public int getNumero() {
+        return numero;
+    }
+
+    public String getTorre() {
+        return torre;
+    }
+    
+    public Apartamento(int numero, String torre) {
+        this.numero = numero;
+        this.torre = torre;
+    }
+    
+    
+}
+
+
 
