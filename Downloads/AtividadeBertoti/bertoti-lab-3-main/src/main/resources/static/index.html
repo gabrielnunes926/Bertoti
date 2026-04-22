@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Gerenciador de Cafés</title>
+</head>
+<body>
+
+<h2>Cadastrar Café</h2>
+
+<form id="coffeeForm">
+    <input type="hidden" id="coffeeId">
+
+    Nome:
+    <input type="text" id="name" required>
+
+    <button type="submit">Salvar</button>
+</form>
+
+<hr>
+
+<h3>Lista de Cafés</h3>
+<ul id="lista"></ul>
+
+<script>
+    const API_URL = "http://localhost:8080/coffees";
+
+    // 🔹 CARREGAR CAFÉS
+    function carregarCafes() {
+        fetch(API_URL)
+        .then(res => res.json())
+        .then(data => {
+            const lista = document.getElementById("lista");
+            lista.innerHTML = "";
+
+            data.forEach(cafe => {
+                const li = document.createElement("li");
+
+                li.innerHTML = `
+                    ${cafe.name}
+                    <button onclick="editar(${cafe.id}, '${cafe.name}')">Editar</button>
+                    <button onclick="deletar(${cafe.id})">Excluir</button>
+                `;
+
+                lista.appendChild(li);
+            });
+        });
+    }
+
+    // 🔹 SALVAR (POST ou PUT)
+    document.getElementById("coffeeForm").addEventListener("submit", function(e) {
+        e.preventDefault();
+
+        const id = document.getElementById("coffeeId").value;
+        const name = document.getElementById("name").value;
+
+        const coffee = { name };
+
+        if (id) {
+            // PUT (ATUALIZAR)
+            fetch(`${API_URL}/${id}`, {
+                method: "PUT",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(coffee)
+            })
+            .then(() => {
+                limparForm();
+                carregarCafes();
+            });
+        } else {
+            // POST (CRIAR)
+            fetch(API_URL, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(coffee)
+            })
+            .then(() => {
+                limparForm();
+                carregarCafes();
+            });
+        }
+    });
+
+    // 🔹 EDITAR
+    function editar(id, name) {
+        document.getElementById("coffeeId").value = id;
+        document.getElementById("name").value = name;
+    }
+
+    // 🔹 DELETAR
+    function deletar(id) {
+        fetch(`${API_URL}/${id}`, {
+            method: "DELETE"
+        })
+        .then(() => carregarCafes());
+    }
+
+    // 🔹 LIMPAR FORM
+    function limparForm() {
+        document.getElementById("coffeeId").value = "";
+        document.getElementById("name").value = "";
+    }
+
+    // 🔹 INICIAR
+    carregarCafes();
+</script>
+
+</body>
+</html>
