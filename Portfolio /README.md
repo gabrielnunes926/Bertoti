@@ -35,4 +35,4 @@ O problema era apresentar os métodos ágeis do Scrum, foi quando desenvolvemos 
 
 A equipe desenvolveu uma aplicação que permitia aos integrantes do time realizar avaliações 360º, onde cada um podia avaliar os colegas e a si mesmo. Além disso, foram implementadas avaliações extras feitas pelo líder do grupo e pelo cliente. O sistema tinha controle de usuários e perfis, organizava as avaliações por sprints e mostrava tudo em dashboards, facilitando o acompanhamento dos resultados. Usamos ferramentas como GitHub, Notion e Excel para gerenciar e armazenar os dados, e criamos o front e back-end da aplicação, seguindo o planejamento das sprints.
 
-[Repositório do Projeto ](https://github.com/laroyprado/Projeto-API-Equipe-First)
+[Repositório do Projeto ](https://github.com/gabrielnunes926/FATEC-API-Under_Devs)
