@@ -25,14 +25,50 @@ Foi em Banco de Dados que trabalhamos a primeira vez com um cliente externo, o I
 
 ### 1º Semestre
 
-### Projeto: [Scrum 360° (Projeto Interno)]()
+### Projeto: Scrum 360° (Projeto Interno)
 
 ### Problema:
-O problema era apresentar os métodos ágeis do Scrum, foi quando desenvolvemos uma plataforma educativa ensinando o que são metodologias ágeis, organizando e estruturando as informações sobre Scrum e avaliando o conhecimento da metodologia Scrum.
+O problema era apresentar os métodos ágeis do Scrum, foi quando desenvolvemos uma plataforma educativa ensinando o que são metodologias ágeis, organizando e estruturando as informações sobre Scrum e avaliando o conhecimento da metodologia.
 
 
 ### Solução Entregue pela Equipe:
 
-A equipe desenvolveu uma aplicação que permitia aos integrantes do time realizar avaliações 360º, onde cada um podia avaliar os colegas e a si mesmo. Além disso, foram implementadas avaliações extras feitas pelo líder do grupo e pelo cliente. O sistema tinha controle de usuários e perfis, organizava as avaliações por sprints e mostrava tudo em dashboards, facilitando o acompanhamento dos resultados. Usamos ferramentas como GitHub, Notion e Excel para gerenciar e armazenar os dados, e criamos o front e back-end da aplicação, seguindo o planejamento das sprints.
+A equipe desenvolveu uma plataforma que instruía as principais etapas da metodologia Scrum, possibilitando ao usuário realizar testes e puzzles baseado nas informações da metodologia que a equipe de desenvolvimento pesquisou.
 
 [Repositório do Projeto ](https://github.com/gabrielnunes926/FATEC-API-Under_Devs)
+
+#### Tecnologias Utilizadas
+> - **Python**: Utilizado no desenvolvimento do backend, proporcionando flexibilidade e facilidade de manutenção na lógica do sistema.
+> - **Html e Css**: Utilizados na criação  e estilização das páginas web.
+> - **Figma**: Utilizado para design e prototipagem da interface, ajudando no planejamento do layout da aplicação.
+> - **Flask**: Utilizado para fazer upload da aplicação na web.
+> - **Git e GitHub**: Essenciais para controle de versão e colaboração entre os membros da equipe, garantindo o gerenciamento eficiente do código.
+
+#### Contribuições Pessoais
+
+<details>
+  <summary>Atuei como desenvolvedor.</summary>
+</details>
+
+<details>
+  <summary>Pesquisa de contéudo Scrum.</summary>
+</details>
+
+<details>
+  <summary>Desenvolvimento da página de testes.</summary>
+</details>
+
+
+#### Hard Skills
+
+- **Python** 
+- **Html/Css**
+
+
+#### Soft Skills
+
+**Comunicação**: Mantive um diálogo constante entre o cliente e a equipe, repassando as necessidades do projeto e alinhando as expectativas para garantir a entrega das funcionalidades corretas.
+
+**Trabalho em equipe** : Lidei com opiniões diferentes da minha e chegamos a um ponto em comum para desenvolvermos um projeto com harmonia e consentimento de todos.
+
+**Gestão de tempo**: Houve momentos em que precisei planejar o tempo que as tarefas demandariam, assim consegui concluí-las sem conflitar com outras responsabilidades.
