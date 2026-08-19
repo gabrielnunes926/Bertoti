@@ -72,3 +72,56 @@ A equipe desenvolveu uma plataforma que instruía as principais etapas da metodo
 **Trabalho em equipe** : Lidei com opiniões diferentes da minha e chegamos a um ponto em comum para desenvolvermos um projeto com harmonia e consentimento de todos.
 
 **Gestão de tempo**: Houve momentos em que precisei planejar o tempo que as tarefas demandariam, assim consegui concluí-las sem conflitar com outras responsabilidades.
+
+### 2º Semestre
+
+### Projeto: TechnoTG (Projeto Interno)
+
+### Problema:
+O problema apresentado foi a dificuldade de produção de TG´s (Trabalhos de graduação) pelos alunos, e a orientação dos professores sob os trabalhos.
+Havia falta de comunicação entre ambos e um problema maior de acompanhamento do progresso nos TG´s.
+
+
+### Solução Entregue pela Equipe:
+
+Desenvolvemos uma plataforma onde é possível o upload do trabalho de graduação por parte do aluno, e em tempo real, o professor que orientaria o mesmo, acompanharia seu progresso. Possibilitando-o corrigir e instruir o projeto de seu aluno. Em nossa plataforma, o TG pode ser atualizado, corrigido e analisado em tempo real, tornando o processo mais fácil ao aluno e ao professor.
+
+[Repositório do Projeto ](https://github.com/TechnoCode-Fatec/Aprendizagem-de-Projetos-Integrados)
+
+#### Tecnologias Utilizadas
+> - **Java**: Linguagem de programação robusta e orientada a objetos utilizada no desenvolvimento da lógica de negócio e do back-end do sistema.
+> - **JavaFX**: Biblioteca/framework gráfica para Java empregada na criação da interface de usuário (UI) desktop de forma moderna e interativa.
+> - **Figma**: Ferramenta de design colaborativa baseada na nuvem utilizada para a prototipagem, criação e validação do visual das telas (UI/UX) antes da implementação.
+> - **MySQL**: Sistema de gerenciamento de banco de dados relacional (SGBD) responsável pelo armazenamento seguro e estruturado de todos os dados da aplicação.
+> - **Git e GitHub**: Ferramentas de controle de versão (Git) e hospedagem de repositório (GitHub) utilizadas para gerenciar o histórico do código-fonte e garantir a organização do projeto.
+
+
+#### Contribuições Pessoais
+
+<details>
+  <summary>Atuei como Product Owner (PO).</summary>
+</details>
+
+<details>
+  <summary>Responsável pela documentação.</summary>
+</details>
+
+<details>
+  <summary>Comunição direta com o cliente.</summary>
+</details>
+
+
+#### Hard Skills
+
+- **?** 
+- **?**
+
+
+#### Soft Skills
+
+**Inteligência emocional**: Precisei lidar com a ansiedade da responsabilidade de ser o contato direto com nosso cliente, demonstrando confiança e lidando com as critícas vindas do mesmo.
+
+**Proatividade** : Busquei saber como minha equipe de desenvolvimento estava com suas tarefas, e se caso não estivesse sobrecarregada, sugerir novas funcionalidades para impressionar nosso cliente.
+
+**Pensamento crítico**: Assim que houvesse uma funcionalidade desenvolvida que não atendesse a expectativa de nosso projeto, sugeri que tivesse mudanças para não sair do plano traçado.
+
