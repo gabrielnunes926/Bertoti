@@ -125,3 +125,54 @@ Desenvolvemos uma plataforma onde é possível o upload do trabalho de graduaç�
 
 **Pensamento crítico**: Assim que houvesse uma funcionalidade desenvolvida que não atendesse a expectativa de nosso projeto, sugeri que tivesse mudanças para não sair do plano traçado.
 
+
+### 3º Semestre
+
+### Projeto: Scrum 360° (Projeto Interno)
+
+### Problema:
+O desafio consistia em automatizar o processo de controle de abastecimento do IPEM (Regional São José dos Campos), que era realizado de forma manual através de planilhas físicas e digitais. O objetivo era eliminar o retrabalho e a lentidão no fluxo de dados para o sistema SGI.
+
+
+### Solução Entregue pela Equipe:
+
+Desenvolvemos uma aplicação Web utilizando Java no back-end para digitalizar o input de informações de abastecimento em tempo real. A solução permitiria que técnicos realizassem apontamentos rápidos e que gestores visualizassem indicadores de consumo médio e quilometragem através de um dashboard intuitivo, além de facilitar a exportação de dados para o sistema oficial.
+
+[Repositório do Projeto ](https://github.com/AtlazDB/Atlaz)
+
+#### Tecnologias Utilizadas
+> - **Java**: Linguagem de programação robusta e orientada a objetos utilizada no desenvolvimento da lógica de negócio e do back-end do sistema.
+> - **Spring Boot**: Framework do ecossistema Java que automatiza configurações e servidores para criar aplicações e microsserviços de forma rápida e independente.
+> - **Vue**: Framework JavaScript progressivo utilizado para construir interfaces de usuário (UIs) e aplicações de página única (SPAs - Single-Page Applications). 
+> - **Supabase**: Plataforma de Backend-as-a-Service (BaaS) de código aberto projetada para ajudar desenvolvedores a criarem o backend de suas aplicações de forma extremamente rápida.
+> - **Docker**: Plataforma de código aberto que empacota uma aplicação e tudo o que ela precisa para rodar em unidades padronizadas chamadas contêineres.
+
+#### Contribuições Pessoais
+
+<details>
+  <summary>Atuei como desenvolvedor.</summary>
+</details>
+
+<details>
+  <summary></summary>
+</details>
+
+<details>
+  <summary>Desenvolvimento da página de testes.</summary>
+</details>
+
+
+#### Hard Skills
+
+- **Python** 
+- **Html/Css**
+
+
+#### Soft Skills
+
+**Comunicação**: Mantive um diálogo constante entre o cliente e a equipe, repassando as necessidades do projeto e alinhando as expectativas para garantir a entrega das funcionalidades corretas.
+
+**Trabalho em equipe** : Lidei com opiniões diferentes da minha e chegamos a um ponto em comum para desenvolvermos um projeto com harmonia e consentimento de todos.
+
+**Gestão de tempo**: Houve momentos em que precisei planejar o tempo que as tarefas demandariam, assim consegui concluí-las sem conflitar com outras responsabilidades.
+
