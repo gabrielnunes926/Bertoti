@@ -1,5 +1,6 @@
+
 # Sobre mim #
-<p align="center"><img src=""C:\Users\nuune\Downloads\178607805.jpg"" width="20%" style="border-radius: 50%; width: 150px; height: 150px; display: block; margin: 0 auto;"></p>
+<p align="center"><img width="460" height="460" alt="178607805" src="https://github.com/user-attachments/assets/f49e96a3-28a4-415e-9e01-0b953433454c" width="20%" style="border-radius: 50%; width: 150px; height: 150px; display: block; margin: 0 auto;"></>
 
 Comecei meus estudos na Fatec no curso de Ánalise e Desenvolvimento de Sistemas, ADS. Onde aprendi sobre linguagens de marcação como HTML e CSS, o framework Flask e a base de lógica de algoritmo, tive experiências com poucos projetos de API neste curso, pois em pouco tempo migrei para o curso de Banco de Dados.
 
@@ -28,6 +29,9 @@ Foi em Banco de Dados que trabalhamos a primeira vez com um cliente externo, o I
 ### 1º Semestre
 
 ### Projeto: Scrum 360° (Projeto Interno)
+
+<p align="center"><img width="785" height="367" alt="Captura de tela 2026-09-28 202524" src="https://github.com/user-attachments/assets/114f90d3-17c8-4fe4-9cc4-6d204efb6b9c" />
+
 
 ### Problema:
 O problema era apresentar os métodos ágeis do Scrum, foi quando desenvolvemos uma plataforma educativa ensinando o que são metodologias ágeis, organizando e estruturando as informações sobre Scrum e avaliando o conhecimento da metodologia.
@@ -78,6 +82,9 @@ A equipe desenvolveu uma plataforma que instruía as principais etapas da metodo
 ### 2º Semestre
 
 ### Projeto: TechnoTG (Projeto Interno)
+
+<p align="center"><img width="200" height="200" alt="227694163" src="https://github.com/user-attachments/assets/168ef6d3-08d4-482d-a4f8-2aad6bf1ccb8" />
+
 
 ### Problema:
 O problema apresentado foi a dificuldade de produção de TG´s (Trabalhos de graduação) pelos alunos, e a orientação dos professores sob os trabalhos.
@@ -130,7 +137,10 @@ Desenvolvemos uma plataforma onde é possível o upload do trabalho de graduaç�
 
 ### 3º Semestre
 
-### Projeto: Scrum 360° (Projeto Interno)
+### Projeto: Gestão de Tráfego de Viaturas (IPEM SJC)
+
+<p align="center"><img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/a9b823e0-b447-4287-a463-0a614cf492a1" />
+
 
 ### Problema:
 O desafio consistia em automatizar o processo de controle de abastecimento do IPEM (Regional São José dos Campos), que era realizado de forma manual através de planilhas físicas e digitais. O objetivo era eliminar o retrabalho e a lentidão no fluxo de dados para o sistema SGI.
