@@ -113,8 +113,8 @@ Desenvolvemos uma plataforma onde é possível o upload do trabalho de graduaç�
 
 #### Hard Skills
 
-- **?** 
-- **?**
+- **Documentação GitHub** 
+- **Contato direto com cliente**
 
 
 #### Soft Skills
@@ -154,25 +154,25 @@ Desenvolvemos uma aplicação Web utilizando Java no back-end para digitalizar o
 </details>
 
 <details>
-  <summary></summary>
+  <summary>Adição de histórico de ocorrências</summary>
 </details>
 
 <details>
-  <summary>Desenvolvimento da página de testes.</summary>
+  <summary>Implementação de filtro e validação de CNH entre técnico e veiculo.</summary>
 </details>
 
 
 #### Hard Skills
 
-- **Python** 
-- **Html/Css**
+- **Spring Boot** 
+- **Vue**
 
 
 #### Soft Skills
 
-**Comunicação**: Mantive um diálogo constante entre o cliente e a equipe, repassando as necessidades do projeto e alinhando as expectativas para garantir a entrega das funcionalidades corretas.
+**Adaptabilidade**: Aprendi a lidar com mudanças repentinas de escopo, novas tecnologias ou alterações nos requisitos do projeto sem perder a produtividade.
 
 **Trabalho em equipe** : Lidei com opiniões diferentes da minha e chegamos a um ponto em comum para desenvolvermos um projeto com harmonia e consentimento de todos.
 
-**Gestão de tempo**: Houve momentos em que precisei planejar o tempo que as tarefas demandariam, assim consegui concluí-las sem conflitar com outras responsabilidades.
+**Gestão de tempo**: Compreendi as dificuldades dos colegas de equipe e as reais necessidades de quem iria usar o framework novo.
 
