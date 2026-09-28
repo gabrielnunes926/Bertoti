@@ -1,4 +1,6 @@
 # Sobre mim #
+<p align="center"><img src=""C:\Users\nuune\Downloads\178607805.jpg"" width="20%" style="border-radius: 50%; width: 150px; height: 150px; display: block; margin: 0 auto;"></p>
+
 Comecei meus estudos na Fatec no curso de Ánalise e Desenvolvimento de Sistemas, ADS. Onde aprendi sobre linguagens de marcação como HTML e CSS, o framework Flask e a base de lógica de algoritmo, tive experiências com poucos projetos de API neste curso, pois em pouco tempo migrei para o curso de Banco de Dados.
 
 Minha escolha da troca de curso, foi causada pela vontade de me lançar rapidamente no mercado de trabalho. Neste curso me aprofundei em Linguagem de Programação em Banco de Dados e áreas mais voltadas a parte de controle de dados. Neste período do curso noturno, participei de duas maratonas internas de programação pela Fatec, onde minha equipe teve um ótimo desempenho pelos treinos que fizemos durante nosso atual curso.
